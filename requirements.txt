@@ -1,0 +1,7 @@
+torch>=2.2
+torchvision
+tensorboard
+torchmetrics>=1.0
+torch-fidelity
+scipy
+matplotlib
